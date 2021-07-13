@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: sou trouxa
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikollelacerda)](https://github.com/anuraghazra/github-readme-stats)
+![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nikollelacerda&layout=compact)
+###### Note que o uso das linguagems não é correlacionado com o meu nível de experiência na mesma.
